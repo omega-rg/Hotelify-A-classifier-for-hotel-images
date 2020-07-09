@@ -84,7 +84,7 @@ I mainly referred to the [Kayak blog post](https://www.kayak.co.in/hotels). This
 ### Training and testing the model
 I trained the model using `Google Colab` GPU's. I continuosly saved the checkpoints to my drive so that I could resume training in case of any interruptions in training.
 
-### Deploying the model to a `Flask` app
+### Deploying the model to a Flask app
 I referred to Github repositories implementing basic `Flask` Apps. I understood the directory strcuture and changed `HTML, CSS and JavaScript` files according to my need.  
 
 
