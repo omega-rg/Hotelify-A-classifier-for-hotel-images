@@ -1,0 +1,1 @@
+git remote add azure-dep https://venknar@imageclassifier-flask.scm.azurewebsites.net:443/imageclassifier-flask.git
