@@ -1,0 +1,15 @@
+Balcony 0
+Bar 1
+Bathroom 2
+Bedroom 3
+Bussiness Centre 4
+Dining room 5
+Exterior 6
+Gym 7
+Living room 8
+Lobby 9
+Patio 10
+Pool 11
+Restaurant 12
+Sauna 13
+Spa 14
